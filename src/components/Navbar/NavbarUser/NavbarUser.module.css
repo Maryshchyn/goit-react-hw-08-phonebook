@@ -9,7 +9,7 @@
 .text {
     display: block;
     margin-bottom: 20px;
-    color: rgb(250, 246, 246);
+    color: rgb(14, 11, 11);
     font-weight: 500;
     font-size: 20px;
     width: 100%;
@@ -18,7 +18,7 @@
 
 .button {
     padding: 10px 20px;
-    background-color: rgb(9, 33, 252);
+    background-color: rgb(8, 8, 10);
     box-shadow: 0px 4px 4px rgba(247, 6, 6, 0.15);
     margin-left: 40px;
     border-radius: 4px;

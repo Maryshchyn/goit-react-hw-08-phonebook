@@ -3,6 +3,8 @@
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid rgb(122, 117, 117);
+    background-color: rgb(79, 122, 122);
+    margin-bottom: 10px;
 }
 
 .link {
@@ -12,5 +14,5 @@
     padding: 12px;
     font-weight: 700;
     font-size: 30px;
-    color: rgb(243, 247, 4);
+    color: rgb(19, 19, 13);
 }

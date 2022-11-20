@@ -14,7 +14,7 @@ import s from "./NavbarUser.module.css"
 
   return (
     <div className={s.box}>
-      <p className={s.text}>{`Welcome back, ${user.email}`}</p>
+      <p className={s.text}>{`Вітаю, ${user.email}`}</p>
       <button className={s.button} onClick={onLogout}>Logout</button>
       </div>
   )

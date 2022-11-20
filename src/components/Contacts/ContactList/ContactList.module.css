@@ -27,7 +27,3 @@
     transition: transform 250ms;
 }
 
-.btn:hover {
-    transform: scale(2.1);
-    color: red;
-}
