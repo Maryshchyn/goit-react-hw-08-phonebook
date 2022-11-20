@@ -8,7 +8,7 @@
 
 .title {
     margin-bottom: 20px;
-    color: rgb(250, 246, 246);
+    color: rgb(20, 16, 16);
     font-weight: 500;
     font-size: 50px;
 }
@@ -19,11 +19,11 @@
     text-decoration: none;
     padding: 12px;
     font-weight: 700;
-    color: rgb(243, 247, 4);
+    color: rgb(163, 42, 42);
     font-size: 30px;
 }
 
 .link:hover {
     transform: scale(1.1);
-    color: rgb(55, 55, 165);
+    
 }
