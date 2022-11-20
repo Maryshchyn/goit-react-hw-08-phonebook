@@ -1,0 +1,13 @@
+.link {
+    display: inline-block;
+    transition: transform 250ms;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 700;
+    color: rgb(243, 247, 4);
+    font-size: 20px;
+}
+
+.link:hover {
+    transform: scale(1.3);
+}

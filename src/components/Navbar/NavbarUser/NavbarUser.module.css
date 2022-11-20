@@ -1,0 +1,37 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0;
+}
+
+
+.text {
+    display: block;
+    margin-bottom: 20px;
+    color: rgb(250, 246, 246);
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+}
+
+
+.button {
+    padding: 10px 20px;
+    background-color: rgb(9, 33, 252);
+    box-shadow: 0px 4px 4px rgba(247, 6, 6, 0.15);
+    margin-left: 40px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    transition: transform 250ms;
+
+    cursor: pointer;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    transform: scale(1.1);
+}

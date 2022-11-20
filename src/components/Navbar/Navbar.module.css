@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(122, 117, 117);
+}
+
+.link {
+    display: inline-block;
+    text-decoration: none;
+    transition: transform 250ms;
+    padding: 12px;
+    font-weight: 700;
+    font-size: 30px;
+    color: rgb(243, 247, 4);
+}
